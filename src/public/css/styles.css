@@ -1,0 +1,30 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.4864320728291317) 0%, rgba(226,195,221,1) 13%, rgba(236,192,162,1) 100%);
+}
+
+nav img {
+    height: 60px;
+}
+
+.table_container{
+    padding: 3%;
+    background: white;
+    border-radius: 20px;
+    margin-top: 10%;
+    -webkit-box-shadow: 7px 4px 19px -10px rgba(0,0,0,0.81);
+    box-shadow: 7px 4px 19px -10px rgba(0,0,0,0.81);
+}
+
+.table_title {
+    text-align: center;
+    margin: 0 0 5% 0
+}
+
+form > button {
+    width: 100%;
+}
+
