@@ -1,8 +1,8 @@
-CREATE DATABASE user_info;
+CREATE DATABASE plmform;
 
-USE user_info;
+USE plmform;
 
-CREATE TABLE user(
+CREATE TABLE user_data(
     name varchar(25) NOT NULL,
     last_name varchar(40) NOT NULL,
     id int PRIMARY KEY,
